@@ -19,9 +19,8 @@ admin@gmail.com    password: 533203   bod: 2000-03-05   N-phone: 07503732421<br>
 omed@gmail.com     password: 533203   bod: 2000-03-05   N-phone: 07503732421<br>
 xadija@gmail.com   password: 533203   bod: 2000-03-05   N-phone: 07503732421<br>
 bushra@gmail.com   password: 533203   bod: 2000-03-05   N-phone: 07503732421<br>
-muslim@gmail.com   password: 533203   bod: 2000-03-05   N-phone: 07503732421<br>
+muslim@gmail.com   password: 533203   bod: 2000-03-05  N-phone: 07503732421<br>
 edris@gmail.com    password: 533203   bod: 2000-03-05   N-phone: 07503732421
-
 
 
 <br>
